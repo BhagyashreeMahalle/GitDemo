@@ -6,7 +6,9 @@ public class Trial1 {
 		// TODO Auto-generated method stub
 		System.out.println("updated repository");
 		System.out.println("updated by X");
-
+		
+		
+		System.out.println("first commit in develop branch - By GitDemo");
 	}
 
 }
