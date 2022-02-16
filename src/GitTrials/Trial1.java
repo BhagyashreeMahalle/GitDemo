@@ -9,6 +9,8 @@ public class Trial1 {
 		
 		
 		System.out.println("first commit in develop branch - By GitDemo");
+		System.out.println("first commit in develop branch - By GitX");
+
 	}
 
 }
